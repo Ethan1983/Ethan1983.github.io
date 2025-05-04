@@ -1,5 +1,10 @@
 [
   {
+    "name": "Android 16 (36)",
+    "api_level": 36,
+    "version": "16"
+  },
+  {
     "name": "Android 15 (35)",
     "api_level": 35,
     "version": "15"
